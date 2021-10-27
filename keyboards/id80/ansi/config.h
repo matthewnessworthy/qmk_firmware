@@ -25,3 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    IDOBAO
 #define PRODUCT         ID80
+
+/* Custom combos */
+#define COMBO_COUNT 0
